@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Mr.wang\Documents\WIN_AFI\test\DynamoRIO-Windows-7.0.17873-0\samples\build\CMakeFiles\2fb6a42c9049f24a29c250389cae10c8\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A33988CD-31CE-3D2F-B8A7-0D9F8F80A6BF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
